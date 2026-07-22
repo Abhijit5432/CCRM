@@ -6,7 +6,7 @@ This project is a console-based Java SE application for managing campus course r
 ### How to Run
 - Use JDK 17 or later.
 - Compile and run using these commands:
-<img width="603" height="81" alt="image" src="https://github.com/user-attachments/assets/d27ec955-89b2-48a4-b86e-41d6e2646ff1" />
+<img width="605" height="81" alt="image" src="https://github.com/user-attachments/assets/d27ec955-89b2-48a4-b86e-41d6e2646ff1" />
 
 - In Eclipse, import the project as a Java project and run edu.ccrm.cli.MainMenu.
 
